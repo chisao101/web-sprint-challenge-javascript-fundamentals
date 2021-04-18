@@ -16,10 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
-
-
-
+// Functions can reach outside of their lexical environment to grab variables and other functions. They can't reach into other functions from the outside to access data. 
 
 /* 🚀🚀🚀 Task 2: Counter 🚀🚀🚀 */
 /* Use summation to do the following:
@@ -28,8 +25,10 @@ myFunction();
     
 For example, `summation(4)` should return 10 because 1+2+3+4 is 10. Note, you may use a for loop for this function if you wish */
 
-function summation(/*Your Code Here*/) {
-  /*Your Code Here*/
+function summation(someNum) {
+
+  
+  return true;
 
   }
  
